@@ -18,10 +18,4 @@
 
 </a>
 
-<a href="mailto:steniohenriquelacerda@gmail.com" alt="gmail" target="_blank">
-
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
-
-</a>
-
 <!-- ![snake gif](https://github.com/HenriqueSilv4/HenriqueSilv4/blob/output/github-contribution-grid-snake.gif) -->
