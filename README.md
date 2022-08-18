@@ -19,4 +19,4 @@
 </a>
 
 ### Contribuições
-![snake gif](https://github.com/HenriqueSilv4/HenriqueSilv4/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/HenriqueSilv4/HenriqueSilv4/blob/output/github-contribution-grid-snake.svg)
