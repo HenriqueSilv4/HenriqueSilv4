@@ -1,6 +1,6 @@
 ### Olá sou o Henrique Silva👋
 
-- 🔭 Sou desenvolvedor WEB .NET
+- 🔭 Sou desenvolvedor WEB .NET -> HTML · JavaScript · JQuery · Bootstrap · Stored Procedures de T-SQL · Razor do ASP.NET · C# · Microsoft SQL Server
 
 - ⚡ Fun fact: Começei a programar em 2015 criando scripts para GTA San Andreas Online em Pawn / C#
 
