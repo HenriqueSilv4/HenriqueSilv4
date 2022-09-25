@@ -12,11 +12,5 @@
   
 </a>
 
-<a href="https://wa.me/+5584987786776" alt="WhatsApp" target="_blank">
-
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/>
-
-</a>
-
 ### Commits
 ![snake gif](https://github.com/HenriqueSilv4/HenriqueSilv4/blob/output/github-contribution-grid-snake.svg)
