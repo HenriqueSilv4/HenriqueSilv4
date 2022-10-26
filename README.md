@@ -1,8 +1,14 @@
-### Olá sou o Henrique Silva👋
+### Olá, me chamo Stenio Henrique👋
 
-- 🔭 Sou desenvolvedor WEB .NET -> HTML · JavaScript · JQuery · Bootstrap · Stored Procedures de T-SQL · Razor do ASP.NET · C# · Microsoft SQL Server
-
-- ⚡ Fun fact: Começei a programar em 2015 criando scripts para GTA San Andreas Online em Pawn / C#
+- 🔭 Sou desenvolvedor WEB .NET -> 
+· HTML 
+· JavaScript 
+· JQuery 
+· Bootstrap 
+· Stored Procedures de T-SQL 
+· Razor do ASP.NET 
+· C# 
+· Microsoft SQL Server
 
 ### Contato
 
