@@ -1,14 +1,14 @@
 ### Olá, me chamo Stenio Henrique👋
 
-- 🔭 Sou desenvolvedor WEB .NET -> 
-· HTML 
-· JavaScript 
-· JQuery 
-· Bootstrap 
-· Stored Procedures de T-SQL 
-· Razor do ASP.NET 
-· C# 
-· Microsoft SQL Server
+- 🔭 Sou desenvolvedor WEB .NET
+- C# 
+- Razor do ASP.NET 
+- HTML 
+- JavaScript 
+- JQuery 
+- Bootstrap 
+- Stored Procedures de T-SQL 
+- Microsoft SQL Server
 
 ### Contato
 
