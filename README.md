@@ -2,7 +2,7 @@
 
 - 🔭 Sou desenvolvedor WEB .NET
 - C# 
-- ASP.NET
+- Razor Pages ASP.NET
 - React Typescript 
 - T-SQL
 
